@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1B3ee1e0dD1168252F1Ae794970Dbb5AAB01a611",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1B3ee1e0dD1168252F1Ae794970Dbb5AAB01a611",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Crypto Gecks",
+  "SYMBOL": "GECK",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 170000000000000000000,
+  "DISPLAY_COST": 170,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-gecks",
+  "SHOW_BACKGROUND": true
+}
